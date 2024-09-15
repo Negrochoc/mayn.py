@@ -1,0 +1,3 @@
+clave = "+-/*!&$#?=@abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"
+variable = int(input("digitos de la contraseña"))
+print (variable)
